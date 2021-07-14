@@ -29,4 +29,5 @@ public class Futbolista {
  public String getEquipoActual(){
      return EquipoActual;
  }
+  
 }
